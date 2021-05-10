@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    outline: black solid 1px;
+}
+
+header{
+    display: flex;
+background-color: chartreuse;
+justify-content: space-evenly;
+flex-direction: row;
+align-items: space-around;
+
+}
+nav  {
+
+    background-color: cadetblue;
+
+}
+span img {
+    object-fit: contain;
+    height: 10vh;
+    background-color: burlywood;
+}
