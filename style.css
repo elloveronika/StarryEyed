@@ -4,20 +4,31 @@
 }
 
 header{
-    display: flex;
-background-color: chartreuse;
+display: flex;
 justify-content: space-evenly;
-flex-direction: row;
-align-items: space-around;
+
+
 
 }
-nav  {
+nav {
 
+
+
+}
+nav ul {
+    display: flex;
     background-color: cadetblue;
+    list-style-type: none;
+
 
 }
 span img {
     object-fit: contain;
-    height: 10vh;
+    height: 5vh;
     background-color: burlywood;
 }
+li a {
+    text-decoration: none;
+    margin: 5rem 5rem 5rem 5rem;
+
+ }
