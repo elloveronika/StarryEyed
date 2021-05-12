@@ -1,6 +1,6 @@
 
 # StarryEyed
-('https://media.giphy.com/media/kOOz4ETbQA2YSlU8gm/giphy.gif')
+(https://media.giphy.com/media/kOOz4ETbQA2YSlU8gm/giphy.gif)
 
 ## How It's Made:
 
