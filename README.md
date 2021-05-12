@@ -1,6 +1,6 @@
 
 # StarryEyed
-(https://media.giphy.com/media/kOOz4ETbQA2YSlU8gm/giphy.gif)
+![Screen Shot 2021-05-11 at 10 54 54 PM](https://media.giphy.com/media/kOOz4ETbQA2YSlU8gm/giphy.gif)
 
 ## How It's Made:
 
