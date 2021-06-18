@@ -10,7 +10,7 @@
 
 ## Lessons Learned:
 
-created navigation using nav bar using flexbox only 
+created navigation bar using flexbox only 
 
 ## Optimization
 add sections for scatteredn images
