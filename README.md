@@ -16,3 +16,4 @@ created navigation using nav bar using flexbox only
 add sections for scatteredn images
 create landing page using moving stars
 insert css animation
+# StarryLanding
